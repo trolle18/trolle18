@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img align="center" src="/assets/195511f5e8.gif" width="100%" alt="hello gif"/>
+  <img align="center" src="/assets/195511f5e8.gif" width="20em" alt="hello gif"/>
 </div>
 
 <h2 align="center">An ambitious & passionate frontend developer</h2>
@@ -42,7 +42,6 @@ Here are some ideas to get you started:
   - 📍 Based in Aarhus, Denmark
   - 💼 Currently looking for a great place to work, with lots of exciting challenges!
   - 🚀 You can find some of my projects here → **<a href="https://sofietrolle.dk/" target="blank">SofieTrolle.dk</a>**
-  - 📫 Get in touch → **sofietrolle@hotmail.com**
 
 </div>
 
@@ -90,10 +89,13 @@ Here are some ideas to get you started:
 
 <div align="center">
 
+<!--
+
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=trolle18&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs?username=trolle18&show_icons=true&locale=en&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
+-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=trolle18&theme=dark&background=00000000)](https://git.io/streak-stats)
 
