@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/CodePen-0077B5?style=for-the-badge&logo=CodePen&logoColor=white" height="25" alt="codepen"/>
   </a> 
 
-  <img src="https://komarev.com/ghpvc/?username=trolle18&style=flat-square&color=blue" height="25" alt=""/>
+<!--   <img src="https://komarev.com/ghpvc/?username=trolle18&style=flat-square&color=blue" height="25" alt=""/> -->
 </div>
 
 
