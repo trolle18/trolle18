@@ -1,27 +1,11 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**trolle18/trolle18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div align="center">
   <img align="center" src="/assets/195511f5e8.gif" width="20em" alt="hello gif"/>
 </div>
 
-<h2 align="center">An ambitious & passionate frontend developer</h2>
-&nbsp;
+<h2 align="center">Ambitious & Passionate Frontend Developer</h2>
 
+&nbsp;
 
 <div id="badges" align="center">
   <a href="https://in.linkedin.com/in/sofie-trolle" target="_blank">
@@ -31,16 +15,14 @@ Here are some ideas to get you started:
   <a href="https://codepen.io/sofietrolle" target="_blank">
     <img src="https://img.shields.io/badge/CodePen-0077B5?style=for-the-badge&logo=CodePen&logoColor=white" height="25" alt="codepen"/>
   </a> 
-
-<!--   <img src="https://komarev.com/ghpvc/?username=trolle18&style=flat-square&color=blue" height="25" alt=""/> -->
 </div>
 
 
 <div align="left">
-  <h3 align="left">About me:</h3>
+  <h3 align="left">About Me:</h3>
 
   - 📍 Based in Aarhus, Denmark
-  - 💼 Currently looking for a great place to work, with lots of exciting challenges!
+  - 💼 Frontend Developer at Wise Home
   - 🚀 You can find some of my projects here → **<a href="https://sofietrolle.dk/" target="blank">SofieTrolle.dk</a>**
 
 </div>
@@ -89,18 +71,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<!--
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=trolle18&theme=dark&background=00000000&hide_current_streak=true)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=trolle18&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs?username=trolle18&show_icons=true&locale=en&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
--->
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=trolle18&theme=dark&background=00000000)](https://git.io/streak-stats)
-
-
-  <!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=trolle18&show_icons=true&locale=en&layout=compact&theme=dark&background=00000000" height="200px" alt="trolle18" />
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=trolle18&theme=dark&background=00000000" height="200px" alt="trolle18" /> -->
 </div>
 
