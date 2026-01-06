@@ -69,9 +69,4 @@
 &nbsp;
 
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=trolle18&theme=dark&background=00000000&hide_current_streak=true)](https://git.io/streak-stats)
-
-</div>
 
